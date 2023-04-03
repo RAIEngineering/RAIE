@@ -5,7 +5,7 @@ title: RAIE 2023
 
 <!-- <p><img src="/img/pierrebourque.jpg" width="200" /><a href="https://profs.etsmtl.ca/pbourque">Pierre Bourque</a> - ing., Ph.D.</p> -->
 
-*<h1>2nd International Workshop on Responsible AI Engineering (RAIE'23)</h1>*
+## 2nd International Workshop on Responsible AI Engineering (RAIE'23)
 
 <!-- Co-located with [**ICSE 2022**](https://conf.researchr.org/home/icse-2022)
 <br>
