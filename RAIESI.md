@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IEEE Transactions on AI - Special Issue on Responsible AI Engineering
+title: Special Issue on Responsible AI Engineering - ITAI
 ---
 
 
