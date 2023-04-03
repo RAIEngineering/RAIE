@@ -5,7 +5,7 @@ title: RAIE 2023
 
 <!-- <p><img src="/img/pierrebourque.jpg" width="200" /><a href="https://profs.etsmtl.ca/pbourque">Pierre Bourque</a> - ing., Ph.D.</p> -->
 
-***2nd International Workshop on Responsible AI Engineering (RAIE'23)***
+*<h1>2nd International Workshop on Responsible AI Engineering (RAIE'23)</h1>*
 
 <!-- Co-located with [**ICSE 2022**](https://conf.researchr.org/home/icse-2022)
 <br>
@@ -44,18 +44,10 @@ Topics of interests include, but are not limited to:
 1. A research or experience full paper with 8 pages max. Papers describing the challenges, starting results, vision papers, or the experience papers from or in cooperation with the practitioners are encouraged.
 
 2. A short research or experience paper with 4 pages max. The same topics as for long papers.
-<!-- 
-**Selected papers presented at the workshop will be invited to consider submission (after significant extension) for the IEEE flagship magazine - [IEEE Computer special issue on software engineering for responsible AI](https://www.computer.org/digital-library/magazines/co/call-for-papers-special-issue-on-software-engineering-for-responsible-ai)** -->
+
 
 ### Submission Guidelines
 TBA
-<!-- • Submissions must conform to the [ACM conference paper formatting instructions](https://www.acm.org/publications/proceedings-template). The official publication date of the workshop proceedings is the date the proceedings are made available in the ACM Library. This date may be up to two weeks prior to the first day of ICSE 2022. The official publication date affects the deadline for any patent filings related to published work.
-
-• LaTeX users must use the provided acmart.cls and ACM-Reference-Format.bst without modification, enable the conference format in the preamble of the document (i.e., {\documentclass[sigconf,review]{acmart}), and use the ACM reference format for the bibliography (i.e., \bibliographystyle{ACM-Reference-Format}). The review option adds line numbers, thereby allowing referees to refer to specific lines in their comments.
-
-• All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. Please note, the submissions should NOT be double blind, i.e. in the submission the authors should be specified. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=se4rai22).
-
-• All submissions must be in PDF. -->
 
 
 ### Important Dates
@@ -77,36 +69,3 @@ TBA
 #### Program Committee
 
 • TBA
-<!-- Ipek Ozkaya, Carnegie Mellon University, Software Engineering Institute, US
-
-• Jan Bosch, Chalmers University of Technology, Sweden
-
-• David Lo, Singapore Management University, Singapore
-
-• Ian Gorton, Northeastern University, US
-
-• Ivica Crnkovic, Chalmers University of Technology, Sweden
-
-• Jinqiu Yang, Concordia University, Canada
-
-• Foutse Khomh, DGIGL, Ecole Polytechnique de Montréal, Canada
-
-• Chakkrit Tantithamthavorn, Monash University, Australia
-
-• Karthik Vaidhyanathan, University of L'Aquila, Italy
-
-• Carol Smith, Carnegie Mellon University, Software Engineering Institute, US
-
-• Michael Felderer, University of Innsbruck, Austria
-
-• Jan S. Rellermeyer, Delft University of Technology, Netherlands
-
-• Tommi Mikkonen, University of Helsinki, Finland
-
-• Henry Muccini, University of L'Aquila, Italy
-
-• Emad Shihab, Concordia University, Canada
-
-• Eric Knauss, University of Gothenburg, Sweden
-
-• Markus Borg, RISE Research Instititutes of Sweden, Sweden -->
