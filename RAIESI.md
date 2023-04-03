@@ -1,18 +1,8 @@
 ---
 layout: page
-title: ITAI - SI - RAIE
+title: IEEE Transactions on AI - Special Issue on Responsible AI Engineering
 ---
 
-<!-- <p><img src="/img/pierrebourque.jpg" width="200" /><a href="https://profs.etsmtl.ca/pbourque">Pierre Bourque</a> - ing., Ph.D.</p> -->
-
-## IEEE Transactions on AI - Special Issue on Responsible AI Engineering
-<br>
-
-<!-- Co-located with [**ICSE 2022**](https://conf.researchr.org/home/icse-2022)
-<br>
-Virtual
-<br>
-May 21-29, 2022 -->
 
 ### Theme & Goals
 
@@ -44,12 +34,12 @@ Topics of interests include, but are not limited to:
 
 
 ### Submission Guidelines
-Preparation of manuscripts should refer to the guidelines in the “Information for Author” on the IEEE Transactions on Artificial Intelligence website: https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence/information-for-authors-tai 
+Preparation of manuscripts should refer to the guidelines in the “Information for Author” on the IEEE Transactions on Artificial Intelligence website: <https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence/information-for-authors-tai>
 
 
 #### Guest Editors
 
 - Qinghua Lu, CSIRO, Australia, <qinghua.lu@data61.csiro.au>
-- Apostol Vassilev, NIST, USA, apostol.vassilev@nist.gov 
-- Jun Zhu, Tsinghua Univeristy, dcszj@mail.tsinghua.edu.cn
-- Foutse Khomh, Canada, foutse.khomh@polymtl.ca
+- Apostol Vassilev, NIST, USA, <apostol.vassilev@nist.gov>
+- Jun Zhu, Tsinghua Univeristy, <dcszj@mail.tsinghua.edu.cn>
+- Foutse Khomh, Canada, <foutse.khomh@polymtl.ca>
