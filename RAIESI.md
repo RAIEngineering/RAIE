@@ -3,6 +3,7 @@ layout: page
 title: Special Issue on Responsible AI Engineering - ITAI
 ---
 
+*** A special issue with IEEE Transactions on Artificial Intelligence ***
 
 ### Theme & Goals
 
