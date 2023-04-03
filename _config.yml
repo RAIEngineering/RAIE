@@ -6,19 +6,20 @@
 # --- Required options --- #
 
 # Name of website
-title: IEEE Transactions on AI - Special Issue on Responsible AI Engineering
+title: Responsible AI Engineering
 
 # Your name to show in the footer
-author: ITAI-SI-RAIE Organization Committee
+author: RAIE Organization Committee
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   # Call for Papers: "call"
-  RAIE: "se4rai2022"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  RAIE'23: "RAIEWorkshop"
+  RAIE SI: "RAIESI"
+  Past series:
+    - SE4RAI'22: "https://conf.researchr.org/home/icse-2022/se4rai-2022"
+    - Computer-SI-SE4RAI: "https://www.computer.org/digital-library/magazines/co/call-for-papers-special-issue-on-software-engineering-for-responsible-ai"
   Contact: "mailto:qinghua.lu@data61.csiro.au"
 
 # --- Logo --- #
