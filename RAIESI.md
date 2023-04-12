@@ -44,5 +44,5 @@ Preparation of manuscripts should refer to the guidelines in the “Information 
 
 - [Qinghua Lu](https://people.csiro.au/L/Q/Qinghua-Lu), CSIRO, Australia, <qinghua.lu@data61.csiro.au>
 - [Apostol Vassilev](https://www.nist.gov/people/apostol-vassilev), NIST, USA, <apostol.vassilev@nist.gov>
-- [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml), Tsinghua Univeristy, <dcszj@mail.tsinghua.edu.cn>
-- [Foutse Khomh](https://www.polymtl.ca/expertises/en/khomh-foutse), Canada, <foutse.khomh@polymtl.ca>
+- [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml), Tsinghua University, China, <dcszj@mail.tsinghua.edu.cn>
+- [Foutse Khomh](https://www.polymtl.ca/expertises/en/khomh-foutse), Polytechnique Montréal, Canada, <foutse.khomh@polymtl.ca>
