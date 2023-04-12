@@ -33,7 +33,7 @@ Topics of interests include, but are not limited to:
 <br>
 **Final decision:** March 31, 2024
 <br>
-**Expected publication date:** End of 2024
+**Expected publication date:** End of 2024 
 
 
 ### Submission Guidelines
