@@ -42,7 +42,7 @@ Preparation of manuscripts should refer to the guidelines in the “Information 
 
 #### Guest Editors
 
-- Qinghua Lu, CSIRO, Australia, <qinghua.lu@data61.csiro.au>
-- Apostol Vassilev, NIST, USA, <apostol.vassilev@nist.gov>
-- Jun Zhu, Tsinghua Univeristy, <dcszj@mail.tsinghua.edu.cn>
-- Foutse Khomh, Canada, <foutse.khomh@polymtl.ca>
+- [Qinghua Lu](https://people.csiro.au/L/Q/Qinghua-Lu), CSIRO, Australia, <qinghua.lu@data61.csiro.au>
+- [Apostol Vassilev](https://www.nist.gov/people/apostol-vassilev), NIST, USA, <apostol.vassilev@nist.gov>
+- [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml), Tsinghua Univeristy, <dcszj@mail.tsinghua.edu.cn>
+- [Foutse Khomh](https://www.polymtl.ca/expertises/en/khomh-foutse), Canada, <foutse.khomh@polymtl.ca>
