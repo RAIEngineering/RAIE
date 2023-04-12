@@ -16,7 +16,7 @@ author: RAIE Organization Committee
 navbar-links:
   # Call for Papers: "call"
   # RAIE'23: "RAIEWorkshop"
-  # RAIE SI: "RAIESI"
+  RAIE SI: "RAIESI"
   # # Past series:
   # #   - SE4RAI'22: "https://conf.researchr.org/home/icse-2022/se4rai-2022"
   # #   - Computer-SI-SE4RAI: "https://www.computer.org/digital-library/magazines/co/call-for-papers-special-issue-on-software-engineering-for-responsible-ai"
