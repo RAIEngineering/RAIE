@@ -27,11 +27,11 @@ Topics of interests include, but are not limited to:
 
 ### Important Dates
 
-**Submission Deadline:** October 1, 2023
+**Submission Deadline (Extended):** ~~October 1, 2023~~ November 1, 2023
 <br>
-**First Notification:** November 30, 2023 (*subsequent review rounds as required*)
+**First Notification:** December 30, 2023 (*subsequent review rounds as required*)
 <br>
-**Final decision:** March 31, 2024
+**Final decision:** April 30, 2024
 <br>
 **Expected publication date:** End of 2024 
 
